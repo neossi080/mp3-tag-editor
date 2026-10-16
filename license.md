@@ -100,3 +100,6 @@ Yes — download again and repeat the steps.
 ---
 
 *mp3-tag-editor · Updated 2026-10-16 · Shared under the MIT License*
+
+
+*Last updated: 2026-10-16*
